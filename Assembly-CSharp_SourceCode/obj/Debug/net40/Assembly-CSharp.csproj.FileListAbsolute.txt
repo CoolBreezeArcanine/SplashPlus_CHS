@@ -1,0 +1,7 @@
+K:\____res\Assembly-CSharp_SourceCode\obj\Debug\net40\Assembly-CSharp.csproj.AssemblyReference.cache
+K:\____res\Assembly-CSharp_SourceCode\obj\Debug\net40\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+K:\____res\Assembly-CSharp_SourceCode\obj\Debug\net40\Assembly-CSharp.csproj.CoreCompileInputs.cache
+K:\____res\Assembly-CSharp_SourceCode\bin\Debug\net40\Assembly-CSharp.dll
+K:\____res\Assembly-CSharp_SourceCode\bin\Debug\net40\Assembly-CSharp.pdb
+K:\____res\Assembly-CSharp_SourceCode\obj\Debug\net40\Assembly-CSharp.dll
+K:\____res\Assembly-CSharp_SourceCode\obj\Debug\net40\Assembly-CSharp.pdb

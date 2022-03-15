@@ -1,0 +1,31 @@
+namespace Manager.MaiStudio.MusicLevelName
+{
+	public enum Table
+	{
+		Level0,
+		Level1,
+		Level2,
+		Level3,
+		Level4,
+		Level5,
+		Level6,
+		Level7,
+		Level7P,
+		Level8,
+		Level8P,
+		Level9,
+		Level9P,
+		Level10,
+		Level10P,
+		Level11,
+		Level11P,
+		Level12,
+		Level12P,
+		Level13,
+		Level13P,
+		Level14,
+		Level14P,
+		Level15,
+		Level15P
+	}
+}

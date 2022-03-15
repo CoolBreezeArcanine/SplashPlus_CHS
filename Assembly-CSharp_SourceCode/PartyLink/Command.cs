@@ -1,0 +1,39 @@
+namespace PartyLink
+{
+	public enum Command
+	{
+		None,
+		AdvocateDelivery,
+		Dummy2,
+		Dummy3,
+		Dummy4,
+		Dummy5,
+		Hello,
+		HeartBeatRequest,
+		HeartBeatResponse,
+		RequestJoin,
+		CancelJoin,
+		ClientPlayInfo,
+		ClientState,
+		UpdateMechaInfo,
+		ResponseMeasure,
+		FinishNews,
+		StartRecruit,
+		FinishRecruit,
+		JoinResult,
+		Kick,
+		RequestMeasure,
+		StartPlay,
+		PartyPlayInfo,
+		PartyMemberInfo,
+		PartyMemberState,
+		StartClientState,
+		SettingHostAddress,
+		SettingRequest,
+		SettingResponse,
+		AdvertiseRequest,
+		AdvertiseResponse,
+		AdvertiseGo,
+		Max
+	}
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README</title>
+</head>
+<body>
+    <h1>maimai Splash Plus 不完美汉化使用说明</h1>
+    <p>
+        <ol>
+            <li>
+                这个汉化因为Universe的出现而流产，具体汉化了哪些东西我也记得不是很清楚了，但主要的按钮和文本汉化了。
+            </li>
+            <li>
+                最麻烦的部分——字体贴图（TextMeshPro）我已经搞定了，剩余的贴图，你们可以自己去尝试绘制之后替换。
+            </li>
+            <li>
+                有很多的文本都在Assembly-CSharp里面以IDENum结尾的类里，我是抄的SDGB的文案，如果觉得蹩脚或者发现了翻译错误，可以自己去纠正。
+            </li>
+            <li>
+                Assembly-CSharp被我移除了维护时间限制，并且增加了可通过mai2.ini控制的选项，分别是<br>
+                    [Skin]<br>
+                    Mask = 1<br>
+                把这两行加进mai2.ini，可以实现控制是否启用圆形的遮罩层<br>
+                    FreezeTimer = 1<br>
+                把这加进mai2.ini里的[Debug]下，可以实现控制是否冻结时间（数字不会自动减少，但不会显示∞，当时没改）<br>
+            </li>
+            <li>
+                为了方便你们修改文本，我已经反编译了Assembly-CSharp为源代码，使用Visual Studio 2019打开Assembly-CSharp.sln后更新引用，即可修改代码，修改后生成dll替换回去即可。
+            </li>
+            <li>
+                修改Assembly-CSharp的时候不要修改其解决方案的生成路径，否则会导致类树形列表无法被看到。
+            </li>
+            <li>
+               吃水不忘挖井人，感谢理科生们提供的好弟弟，也希望大家能好好利用这份不完美的汉化。
+            </li>
+            <li>
+                以上，希望大伙玩的愉快。By:CoolBreeze
+            </li>
+        </ol>
+        
+
+    </p>
+</body>
+</html>

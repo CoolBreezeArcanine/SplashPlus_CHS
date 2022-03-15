@@ -1,0 +1,40 @@
+namespace DB
+{
+	public enum OptionBreakseID
+	{
+		Se1 = 0,
+		Se2 = 1,
+		Se3 = 2,
+		Se4 = 3,
+		Se5 = 4,
+		Se6 = 5,
+		Se7 = 6,
+		Se8 = 7,
+		Se9 = 8,
+		Se10 = 9,
+		Se11 = 10,
+		Se12 = 11,
+		Se13 = 12,
+		Se14 = 13,
+		Se15 = 14,
+		Se16 = 15,
+		Se17 = 16,
+		Se18 = 17,
+		Se19 = 18,
+		Se20 = 19,
+		Se21 = 20,
+		Se22 = 21,
+		Se23 = 22,
+		Se24 = 23,
+		Se25 = 24,
+		Se26 = 25,
+		Se27 = 26,
+		Se28 = 27,
+		Se29 = 28,
+		Se30 = 29,
+		Se31 = 30,
+		Begin = 0,
+		End = 31,
+		Invalid = -1
+	}
+}
